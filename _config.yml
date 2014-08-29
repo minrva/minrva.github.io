@@ -1,0 +1,10 @@
+# Site settings
+title: Minrva
+email: 
+description: "A Mobile App for Libraries."
+baseurl: ""
+url: "http://minrva.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
