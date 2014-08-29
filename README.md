@@ -1,3 +1,3 @@
 #[MinrvaProject.org](http://minrvaproject.org)
 
-###by fine folks at the University of Illinois
+###by the University of Illinois' Library Technology Prototyping Service
